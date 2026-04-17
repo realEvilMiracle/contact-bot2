@@ -120,7 +120,7 @@ def resolve_photo(photo: str | None):
 
 async def send_main_menu(update: Update, edit: bool = False) -> None:
     user = update.effective_user
-    text = f"Привет, {user.first_name}!\nВыберите категорию контактов:"
+    text = f"Привет, {user.first_name}!на связи команда «Октября»! \nВ этом чат-боте мы собрали для тебя полезные контакты для твоей свадьбы. Каждая кнопка откроет для тебя подборку ведущих, фотографов, видеографов, рилс-мейкеров, кондитеров и организаторов.\nДелись ботом и подписывайся на сообщество «Октября», мы готовим для тебя еще много всего интересного!"
     markup = build_main_menu_markup()
 
     if edit and update.callback_query:
