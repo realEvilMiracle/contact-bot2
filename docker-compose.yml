@@ -1,0 +1,14 @@
+services:
+  bot:
+    build: .
+    container_name: tilitesto-bot
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./contacts.json:/app/contacts.json:ro
+      - ./img:/app/img:ro
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
