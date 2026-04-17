@@ -1,0 +1,68 @@
+{
+  "hosts": {
+    "name": "🎤 Ведущие",
+    "contacts": {
+      "host1": {"name": "Денис Белых", "phone": "https://clck.ru/3LSwcF", "photo": "img/belih.jpg"},
+      "host2": {"name": "Артем Барабаш", "phone": "https://clck.ru/3LSwgq", "photo": "img/barabash.jpg"},
+      "host3": {"name": "Дмитрий Рубанов", "phone": "https://clck.ru/3LSwiv", "photo": "img/rubanov.jpg"},
+      "host4": {"name": "Иван Муравецкий", "phone": "https://clck.ru/3LSwm9", "photo": "img/murovets.jpg"},
+      "host5": {"name": "Виктор Лукьянчиков", "phone": "https://clck.ru/3LSwpc", "photo": "img/lukanchikov.jpg"}
+    }
+  },
+  "organizers": {
+    "name": "📋 Организаторы",
+    "contacts": {
+      "org1": {"name": "Мария Зейналова", "phone": "https://clck.ru/3LSwri", "photo": "img/masha.jpg"},
+      "org2": {"name": "Наталья Еранова", "phone": "https://clck.ru/3LSwuD", "photo": "img/eranova.jpg"}
+    }
+  },
+  "decor": {
+    "name": "🎨 Декоратор",
+    "contacts": {
+      "decor1": {"name": "Алина Запара", "phone": "https://clck.ru/3LSwwY", "photo": "img/zapara.jpg"}
+    }
+  },
+  "videographers": {
+    "name": "🎥 Видеографы",
+    "contacts": {
+      "video1": {"name": "Захарова Кристина", "phone": "https://clck.ru/3LSx7H", "photo": "img/kristina.jpg"},
+      "video2": {"name": "Олеся Цыб", "phone": "https://clck.ru/3LSx8p", "photo": "img/ciba.jpg"}
+    }
+  },
+  "show": {
+    "name": "🎭 Шоу-программа",
+    "contacts": {
+      "show1": {"name": "Шоу-бэнд «WHY NOT? BRASS»", "phone": "https://clck.ru/3LSxCc", "photo": "img/brass.jpg"},
+      "show2": {"name": "Кавер-группа «Котовичи»", "phone": "https://clck.ru/3LSxDd", "photo": "img/kotovichi.jpg"},
+      "show3": {"name": "Руслан Зейналов", "phone": "https://clck.ru/3LSxL9", "photo": "img/ruslan.jpg"},
+      "show4": {"name": "Кавер-группа «Месяц»", "phone": "https://clck.ru/3LSxMa", "photo": "img/month.jpg"},
+      "show5": {"name": "Трио «Лэдис Лайк»", "phone": "https://clck.ru/3LSxP8", "photo": "img/ledys.jpg"},
+      "show6": {"name": "Группа «Ну шо ты?»", "phone": "https://clck.ru/3LSxVU", "photo": "img/chto.jpg"},
+      "show7": {"name": "Кавер-группа «Ромерос»", "phone": "https://clck.ru/3LSxXc", "photo": "img/romeros.jpg"}
+    }
+  },
+  "confectioners": {
+    "name": "🍰 Кондитеры",
+    "contacts": {
+      "cake1": {"name": "Екатерина Шевцова", "phone": "https://clck.ru/3LSxas", "photo": "img/shevtsova.jpg"},
+      "cake2": {"name": "Кондитерская студия «Абрикоска»", "phone": "https://clck.ru/3LSxeP", "photo": "img/abrikosova.jpg"},
+      "cake3": {"name": "Мария Лукьянова", "phone": "https://clck.ru/3LSxgh", "photo": "img/lukyanova.jpg"},
+      "cake4": {"name": "Светлана Медведева", "phone": "https://clck.ru/3LSxjb", "photo": "img/medvedeva.jpg"}
+    }
+  },
+  "tech": {
+    "name": "🔊 Звук, свет, фейерверки",
+    "contacts": {
+      "tech1": {"name": "Чепелев прокат (оборудование)", "phone": "https://clck.ru/3LSxpn", "photo": "img/chepelev.jpg"},
+      "tech2": {"name": "Денис Кочерга (оборудование и звукорежиссура)", "phone": "https://clck.ru/3LSxnh", "photo": "img/kocherga.jpg"},
+      "tech3": {"name": "Дмитрий Горелов (звукорежиссура)", "phone": "https://clck.ru/3LSxqz"},
+      "tech4": {"name": "Александр Коломыцев (художник по свету)", "phone": "https://clck.ru/3LSxyX", "photo": "img/kolomicev.jpg"}
+    }
+  },
+  "october": {
+    "name": "🏛️ КЦ «Октябрь»",
+    "contacts": {
+      "admin": {"name": "КЦ «Октябрь»", "phone": "https://clck.ru/3LSy35"}
+    }
+  }
+}
